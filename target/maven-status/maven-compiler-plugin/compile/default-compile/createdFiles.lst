@@ -1,0 +1,6 @@
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\pages\TabletsPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\pages\DesktopPage.class
+com\crm\qa\Base\TestBase.class
